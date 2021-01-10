@@ -1,0 +1,14 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
